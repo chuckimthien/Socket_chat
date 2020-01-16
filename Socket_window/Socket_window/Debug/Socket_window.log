@@ -1,0 +1,3 @@
+﻿  Socket.cpp
+C:\Users\Admin\Documents\Hoctap\iMicTechnology\C++\source\Socket_window\Socket_window\Socket_window\Socket.cpp(108,23): warning C4101: 'dstAddr': unreferenced local variable
+  Socket_window.vcxproj -> C:\Users\Admin\Documents\Hoctap\iMicTechnology\C++\source\Socket_window\Socket_window\Debug\Socket_window.exe
